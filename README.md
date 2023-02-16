@@ -27,4 +27,5 @@ Usage
 Upon opening the index.html file, you will be presented with the main page of the web application. From there, you can browse items by category, add items to your shopping cart, and review product details. The shopping cart displays the total price, tax, and subtotal of all items in the cart. You can modify the cart by adding, removing, or modifying items as needed.
 
 Contributing
+
 If you would like to contribute to Dan Online Store, please feel free to submit a pull request. Any contributions are greatly appreciated.
