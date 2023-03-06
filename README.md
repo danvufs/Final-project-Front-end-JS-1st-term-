@@ -1,6 +1,6 @@
 # Final-project-Front-end-JS-1st-term-
 This is my first project and the school!
-Dan Online Store
+
 Dan Online Store is an e-commerce web application that allows customers to browse and purchase shoes, boots, and sandals. It features a variety of items that can be sorted by category, displayed in a user-friendly interface, and added to a shopping cart for purchase.
 
 
